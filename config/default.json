@@ -1,0 +1,6 @@
+{
+    "serverPort": 3000,
+    "dbUrl": "mongodb+srv://kzstar18rus:KRtALoMWKVmpqsQN@cloud.lp2ulgj.mongodb.net/",
+    "secretKey": "mern-secret-key",
+    "filePath": "D:\\Cloud-disk\\server\\files"
+}
